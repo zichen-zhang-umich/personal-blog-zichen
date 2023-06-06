@@ -1,4 +1,4 @@
-# Personal Blog 
+# Zichen Zhang Personal Blog/Website
 
 ## About
-This is my personal website which contains introduction, my projects/work and contact information
+
