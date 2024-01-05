@@ -7,7 +7,7 @@ This is the source code to the personal website of Zichen Zhang: https://zichen-
 
 ## Status
 
-This website was updated on **Jul, 2023**.
+This website was updated on **Jan, 2024**.
 
 
 ## Other
